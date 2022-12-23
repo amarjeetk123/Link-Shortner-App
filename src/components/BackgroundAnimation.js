@@ -2,7 +2,7 @@ import "../App.css"
 
 const BackgroundAnimation = () => {
     return (
-        <div class="background">
+        <div className="background">
             <span></span>
             <span></span>
             <span></span>

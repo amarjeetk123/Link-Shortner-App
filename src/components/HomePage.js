@@ -61,11 +61,9 @@ function HomePage() {
     if (error) {
         return (
             <div className="error-box">        
-                <p className="error">something went Wrong </p>         
+                <p className="error"> something went Wrong </p>         
             </div>
         )
-
-
     }
     if (loading) {
         return <p className="loading">Loading...............</p>

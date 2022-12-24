@@ -73,3 +73,16 @@
 .error-back{
 color: red;
 }
+
+
+/* style for navbar  */
+nav{
+    position: fixed;
+}
+
+.left img{
+    width: 150px;
+    height: 130px;
+    border-radius: 40%;
+    cursor: pointer;
+}
